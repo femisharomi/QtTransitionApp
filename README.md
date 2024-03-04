@@ -1,4 +1,4 @@
-# QtTransitionApp
+# QtQuickAppTute
 
 ## Overview
 Exploring fundamental Qt Quick concepts through the implementation of states and transitions using Qt Creator.
